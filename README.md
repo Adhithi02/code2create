@@ -1,9 +1,9 @@
 # Audio Identification & Source Detection System
 
 ## Team Information
-- **Team Name**: [Team Name]
-- **Year**: [Year]
-- **All-Female Team**: [Yes/No]
+- **Team Name**: TeamSynapse
+- **Year**: 3
+- **All-Female Team**: Yes
 
 ## Architecture Overview
 
